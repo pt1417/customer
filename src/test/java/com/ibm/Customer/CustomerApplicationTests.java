@@ -1,4 +1,4 @@
-package com.ibm.Customer;
+package com.ibm.customer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
